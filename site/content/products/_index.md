@@ -8,6 +8,7 @@ description: >-
   java’s origin and support the farmers that grew it. We take coffee production,
   roasting and brewing seriously and we’re glad to pass that knowledge to
   anyone.
+subdesc: This is the new addition that I just added... does it work!?
 intro:
   blurbs:
     - image: /img/illustrations-coffee.svg
